@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .container {
+    text-align: center;
+    
+  }
+  
+  .hidden {
+    display: none; /* Hide the content by default */
+  }
+  button{
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+    color: white;
+    background-color: blueviolet;
+  }
+
+  
